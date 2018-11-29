@@ -5,9 +5,9 @@ This source code is part of [Node.js, Express.js, Mongoose and MongoDB CRUD Tuto
 
 ## How To Install and RUN
 On terminal
-~ express Express-CRUD --view=ejs
-~ cd Express-CRUD 
-~ npm install
-~ npm install mongoose --save
-~ sudo npm install -g nodemon
-~ nodemon
+- express Express-CRUD --view=ejs
+- cd Express-CRUD 
+- npm install
+- npm install mongoose --save
+- sudo npm install -g nodemon
+- nodemon
